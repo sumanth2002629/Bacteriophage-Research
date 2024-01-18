@@ -1,5 +1,5 @@
 # Data
-The data used for the work is available at [a link](https://drive.google.com/drive/folders/1XLgpgSP6CIS8XshQqqI1Z2C2Db07Lx3T?usp=sharing). After downloading the data, the appropriate data path should be given in **do_prediction**
+The data used for the work is available [here](https://drive.google.com/drive/folders/1XLgpgSP6CIS8XshQqqI1Z2C2Db07Lx3T?usp=sharing). After downloading the data, the appropriate data path should be given in **do_prediction**
 and **do_training** functions in every notebook.
 
 # Structure
